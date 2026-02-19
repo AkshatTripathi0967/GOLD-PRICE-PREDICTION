@@ -3,3 +3,4 @@ yfinance
 streamlit
 matplotlib
 altair<5
+scikit-learn
